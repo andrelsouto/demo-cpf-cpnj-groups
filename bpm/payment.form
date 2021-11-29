@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Amount",
+      "type": "number",
+      "id": "Field_1rfev1s",
+      "key": "amount"
+    },
+    {
+      "label": "Item",
+      "type": "textfield",
+      "id": "Field_18yaf75",
+      "key": "item"
+    },
+    {
+      "label": "Approved?",
+      "type": "checkbox",
+      "id": "Field_12e4lie",
+      "key": "approved"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0r05jfw",
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.16"
+}
